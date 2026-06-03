@@ -1,2 +1,7 @@
 CLAUDE.md
-data\raw
+data/raw/
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
